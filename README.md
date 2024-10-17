@@ -27,7 +27,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and a full-sta
 ## 🔧 Projects
 Here are some of the projects I've worked on:
 
-### 📊 [COVID-19 Dashboard](https://github.com/your-username/COVID-19-Dashboard.git)
+### 📊 [COVID-19 Dashboard](https://github.com/Pradeepyn-dev/covid19-dashboard)
 - An interactive dashboard built with Streamlit and Plotly.
 - Visualizes global COVID-19 statistics and provides country comparisons.
 
